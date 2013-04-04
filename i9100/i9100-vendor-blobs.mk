@@ -25,10 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9100/proprietary/system/lib/libril.so:system/lib/libril.so \
     vendor/samsung/i9100/proprietary/system/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/i9100/proprietary/system/lib/libsecril-client.so:system/lib/libsecril-client.so \
-    vendor/samsung/i9100/proprietary/system/lib/hw/gps.exynos4.so:system/lib/hw/gps.exynos4.so \
-    vendor/samsung/i9100/proprietary/system/bin/gpsd:system/bin/gpsd \
-    vendor/samsung/i9100/proprietary/system/bin/gps.cer:system/bin/gps.cer \
-    vendor/samsung/i9100/proprietary/system/etc/gps.xml:system/etc/gps.xml \
     vendor/samsung/i9100/proprietary/system/lib/libakm.so:system/lib/libakm.so \
     vendor/samsung/i9100/proprietary/system/lib/libandroid_runtime.so:system/lib/libandroid_runtime.so \
     vendor/samsung/i9100/proprietary/system/lib/libnativehelper.so:system/lib/libnativehelper.so \
